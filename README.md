@@ -5,8 +5,11 @@ This Python script implements a function to count the number of entries in an ar
 
 ## Function:
   -  count_divisible_numbers_of_entries(array, divisor):
+
     -  Counts the number of entries in the array that are divisible by the given divisor.
+    
     -  Takes an array of integers and a divisor as input.
+    
     -  Returns the count of divisible numbers.
 
 ## Code Structure:
